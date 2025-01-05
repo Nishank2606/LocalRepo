@@ -1,0 +1,45 @@
+[33mcommit 3cfbd3f88a14584d5f7011019a11a37ba800bfed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: 078c728 7879902
+Author: Nishank2606 <khadpenishank@gmail.com>
+Date:   Mon Jan 6 00:22:14 2025 +0530
+
+    Add both features
+
+[33mcommit 078c728d3e2088ca3d150adbaede740d7b6a2bf3[m
+Author: Nishank2606 <khadpenishank@gmail.com>
+Date:   Mon Jan 6 00:19:09 2025 +0530
+
+    Add Dropdown
+
+[33mcommit 78799026fa8108467e63495f05948cad7aedbca8[m
+Author: Nishank2606 <khadpenishank@gmail.com>
+Date:   Mon Jan 6 00:17:53 2025 +0530
+
+    Add button
+
+[33mcommit 61db1823cd9c62dedded706f60c4eaf391b56521[m
+Merge: fcdfc96 267a049
+Author: Nishank2606 <khadpenishank@gmail.com>
+Date:   Mon Jan 6 00:09:07 2025 +0530
+
+    Merge pull request #1 from Nishank2606/feature1
+    
+    Add new Feature
+
+[33mcommit 267a049144efaefcb35b08e4a269b5bf4eb92afb[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Nishank2606 <khadpenishank@gmail.com>
+Date:   Mon Jan 6 00:01:15 2025 +0530
+
+    Add new Feature
+
+[33mcommit fcdfc962ba1f180e4c59b3a3052140f89a90c5eb[m
+Author: Nishank2606 <khadpenishank@gmail.com>
+Date:   Sun Jan 5 23:49:16 2025 +0530
+
+    Fixed Readme
+
+[33mcommit a7a4a654b357c3b8b4a97646ec65f0d4ae30aebb[m
+Author: Nishank2606 <khadpenishank@gmail.com>
+Date:   Sun Jan 5 23:38:38 2025 +0530
+
+    Add a HTML and CSS File.
